@@ -1,0 +1,3 @@
+[submodule "VCS_library"]
+	path = VCS_library
+	url = https://github.com/KostyaKindaluk/VCS_library.git
